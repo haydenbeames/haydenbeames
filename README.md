@@ -1,7 +1,4 @@
 👋 Hi there
 
 
-📫 How to reach me ...
-
-https://www.linkedin.com/in/haydenbeames/
-
+I love everything about computer architecture. Follow me to see my project evolutions.
